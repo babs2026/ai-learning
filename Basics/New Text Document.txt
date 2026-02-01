@@ -1,0 +1,4 @@
+Day 1:
+Created my AI_Learning folder.
+
+This is my second line.
